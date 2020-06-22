@@ -1,9 +1,8 @@
-title: Hey, my name is Gerard
-author: Gerard Casas Saez
+title: Hey, I'm Fran Martin
+author: Fran Martin Rivas
 color: "#2B546B"
-twitter: casassaez
-description: Hey, my name is Gerard! MS student at the University of Colorado Boulder, hackathon organizer and occasional photographer.
-domain: gerard.space
+twitter: __franmartin
+description: Hey, glad you are here! My name is Fran and I am a enviromental scientist converted into GIS analyst and geospatial developer.
 sass:
     sass_dir: assets/_sass
     style: compressed
